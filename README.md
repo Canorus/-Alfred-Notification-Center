@@ -6,4 +6,6 @@
 1\. 설정 > 보안 및 개인 정보 보호 > 개인 정보 보호 탭 > 손쉬운 사용 항목에 Automator.app과 Automator Runner.app 등록
 2\. `/System/Library/CoreSerivces/Automator Runner.app` 실행.
 
+Original idea from [BTM](http://macnews.tistory.com/3058)
+
 [다운로드](https://github.com/Canorus/-Alfred-Notification-Center/raw/master/nc.alfredworkflow)
